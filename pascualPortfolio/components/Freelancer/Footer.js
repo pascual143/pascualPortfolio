@@ -18,7 +18,7 @@ class Footer extends Component {
                                 <h4>Phone No:</h4>
                                 <span>
                                     <Link href="#">
-                                        <a>07456804259</a>
+                                        <a>+34660566210</a>
                                     </Link>
                                 </span>
                             </div>
@@ -47,7 +47,7 @@ class Footer extends Component {
                         </div>
 
                         <div className="col-lg-7 col-md-7">
-                            <p><i className="far fa-copyright"></i> 2020 <Link href="/"><a>Pascual Vila</a></Link></p>
+                            <p><i className="far fa-copyright"></i> 2020 <Link href="/"><a>www.tandgo.es</a></Link></p>
                         </div>
 
                         <div className="col-lg-5 col-md-5">
