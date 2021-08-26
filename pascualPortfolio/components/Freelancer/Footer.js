@@ -38,7 +38,7 @@ class Footer extends Component {
                         <div className="col-lg-3 col-md-6">
                             <div className="contact-info">
                                 <h4>Address:</h4>
-                                <span>London, UK</span>
+                                <span>Alicante, España</span>
                             </div>
                         </div>
 
